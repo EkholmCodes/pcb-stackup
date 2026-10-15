@@ -1,0 +1,12 @@
+[package]
+name = "pcb-stackup"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["EkholmCodes <https://github.com/EkholmCodes>"]
+license = "MIT"
+description = "Visualize PCB layer stackups using CeTZ annotations."
+repository = "https://github.com/EkholmCodes/pcb-stackup"
+keywords = ["pcb", "hardware", "cetz", "diagram", "electronics"]
+categories = ["visualization"]
+disciplines = ["engineering"]
+compiler = "0.15.0"
